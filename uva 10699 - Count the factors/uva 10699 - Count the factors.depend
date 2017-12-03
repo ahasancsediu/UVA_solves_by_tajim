@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432884247 source:d:\coadings\trying\uva 10699 - count the factors\main.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1449385216 source:d:\coadings\uva\problem solved\uva 113  power of cryptography\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+

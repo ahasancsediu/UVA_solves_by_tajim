@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451017638 source:f:\uva 562 dividing coins\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<cstdio>
+

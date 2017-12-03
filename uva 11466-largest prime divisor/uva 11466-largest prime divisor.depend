@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1434225787 source:d:\coadings\trying\uva 11466-largest prime divisor\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<stdio.h>
+	<cmath>
+	<algorithm>
+	<bits/stdc++.h>
+	<bits/stdc++.h>
+	<iostream>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1442944421 source:e:\coadings\trying\ip address (regionals 2004- latin america - mexico and central america)\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cmath>
+	<algorithm>
+	<cctype>
+	<string>
+	<cstring>
+

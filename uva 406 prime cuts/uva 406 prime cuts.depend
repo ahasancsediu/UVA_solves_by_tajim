@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1432876693 source:d:\coadings\trying\uva 406 prime cuts\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+

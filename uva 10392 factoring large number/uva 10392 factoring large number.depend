@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1434259429 source:d:\coadings\trying\uva 10392 factoring large number\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<stdio.h>
+	<cmath>
+	<algorithm>
+	<bits/stdc++.h>
+

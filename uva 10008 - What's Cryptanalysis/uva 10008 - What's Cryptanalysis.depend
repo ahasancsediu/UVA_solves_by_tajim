@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1461218148 source:d:\coadings\trying\uva 10008 - what's cryptanalysis\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1434993904 source:d:\coadings\trying\uva-332 - rational numbers from repeating fractions\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<stdio.h>
+	<cmath>
+	<algorithm>
+	<bits/stdc++.h>
+
+1434994308 source:e:\coadings\uva\problem solved\uva-332 - rational numbers from repeating fractions\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<stdio.h>
+	<cmath>
+	<algorithm>
+	<bits/stdc++.h>
+

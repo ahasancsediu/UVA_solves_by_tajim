@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1436636633 source:e:\coadings\uva\problem solved\uva-10220 i love big numbers !\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cctype>
+	<string>
+	<cstring>
+

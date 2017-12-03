@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1461262283 source:d:\coadings\trying\uva 483 word scramble\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<string>
+	<algorithm>
+	<vector>
+	<stack>
+	<queue>
+	<map>
+	<sstream>
+

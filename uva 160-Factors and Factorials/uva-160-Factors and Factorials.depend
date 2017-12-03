@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1436875100 source:d:\coadings\trying\uva-160-factors and factorials\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

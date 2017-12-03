@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1433174634 source:d:\coadings\trying\uva 686 - goldbach's conjecture (ii)\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cmath>
+

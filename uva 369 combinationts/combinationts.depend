@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1447770372 source:d:\coadings\trying\combinationts\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<string>
+	<cctype>
+	<stack>
+	<queue>
+	<list>
+	<vector>
+	<map>
+	<sstream>
+	<cmath>
+	<bitset>
+	<utility>
+	<set>
+

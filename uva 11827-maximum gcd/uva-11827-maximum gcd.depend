@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1434213514 source:d:\coadings\trying\uva-11827-maximum gcd\main.cpp
+	<iostream>
+	<stdio.h>
+	<cmath>
+
+1449635327 source:d:\coadings\uva\problem solved\uva 11827-maximum gcd\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<stdio.h>
+	<cmath>
+	<algorithm>
+	<bits/stdc++.h>
+

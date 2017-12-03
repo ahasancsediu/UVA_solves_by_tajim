@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1452540351 source:d:\coadings\trying\uva 401 - palindromes\main.cpp
+	<iterator>
+	<numeric>
+	<fstream>
+	<cassert>
+	<climits>
+	<cstdlib>
+	<deque>
+	<bits/stdc++.h>
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<string>
+	<cctype>
+	<stack>
+	<queue>
+	<list>
+	<vector>
+	<map>
+	<sstream>
+	<cmath>
+	<bitset>
+	<utility>
+	<set>
+

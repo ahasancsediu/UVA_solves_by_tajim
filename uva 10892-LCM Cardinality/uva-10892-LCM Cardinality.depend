@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1434235832 source:d:\coadings\trying\uva-10892-lcm cardinality\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<stdio.h>
+	<cmath>
+	<algorithm>
+	<bits/stdc++.h>
+

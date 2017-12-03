@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1461257683 source:d:\coadings\trying\uva 575 skew binary\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<string>
+	<algorithm>
+	<vector>
+	<stack>
+	<queue>
+	<map>
+	<sstream>
+

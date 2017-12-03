@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1436645096 source:d:\coadings\trying\uva-10338 mischievous children\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+

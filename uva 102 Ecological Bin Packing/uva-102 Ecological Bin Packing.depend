@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1434709270 source:d:\coadings\trying\uva-102 ecological bin packing\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+

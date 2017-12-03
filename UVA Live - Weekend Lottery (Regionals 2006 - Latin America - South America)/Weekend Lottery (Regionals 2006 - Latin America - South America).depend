@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1443019246 source:e:\coadings\trying\weekend lottery (regionals 2006 - latin america - south america)\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<math.h>
+	<string.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1436623964 source:d:\coadings\trying\uva 324 factorial frequencies\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cctype>
+	<string>
+	<cstring>
+
